@@ -17,6 +17,9 @@ See: [https://github.com/mamba-org/mamba](https://github.com/mamba-org/mamba)
 conda activate natural_computing
 ```
 
+## Exercise 4
+We only figured out tuesday evening that we had to submit our code in a github repository. Sadly, the team-mate which has the code for this assignment on his PC is not able to provide the code before the deadline. We'll add the code as soon as it's available.
+
 ## Exercise 6
 
 Generate all the results used in the exercises. Either use the script: 

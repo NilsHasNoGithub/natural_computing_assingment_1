@@ -40,20 +40,20 @@ cd ..
 
 python sub_ass_6_plot_results.py \
     --in-file results/ma_given/data.json \
-    --out-dir plots/ma_given \
+    --out-dir results/ma_given \
     --location-file data/file-tsp.txt
 
 python sub_ass_6_plot_results.py \
     --in-file results/ea_usa/data.json \
-    --out-dir plots/ea_usa \
+    --out-dir results/ea_usa \
     --location-file data/tsp-usa-capitals.txt
 
 python sub_ass_6_plot_results.py \
     --in-file results/ea_usa/data.json \
-    --out-dir plots/ea_usa \
+    --out-dir results/ea_usa \
     --location-file data/tsp-usa-capitals.txt
 
 python sub_ass_6_plot_results.py \
     --in-file results/ea_usa/data.json \
-    --out-dir plots/ea_usa \
+    --out-dir results/ea_usa \
     --location-file data/tsp-usa-capitals.txt
