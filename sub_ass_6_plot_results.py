@@ -30,7 +30,7 @@ def plot_route(route, locations):
 @click.option("--in-file", type=click.Path(exists=True))
 @click.option("--out-dir", type=str)
 @click.option("--location-file", type=click.Path(exists=True))
-@click.option("--population-size", type=int, default=100)
+@click.option("--population-size", type=int, default=100) 
 @click.option("--p-mutation", type=float, default=0.1)
 def main(in_file: str ,out_dir: str, location_file: str, population_size: int, p_mutation: float):
     os.makedirs(out_dir, exist_ok=True)
